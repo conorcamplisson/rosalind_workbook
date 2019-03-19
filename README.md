@@ -8,7 +8,9 @@ Jupyter notebook templates by topic for the bioinformatics problems on [rosalind
 
 2. Clone this repository:
 
-`$ git clone git@github.com:conorcamplisson/rosalind_workbook.git`
+```
+$ git clone git@github.com:conorcamplisson/rosalind_workbook.git
+```
 
 2. Create the conda environment:
 
@@ -19,11 +21,15 @@ $ conda env create -f environment.yml
 
 3. Activate the conda environment:
 
-`$ source activate rosalind`
+```
+$ source activate rosalind
+```
 
 4. Run the jupyter notebook server:
 
-`$ jupyter notebook`
+```
+$ jupyter notebook
+```
 
 6. In your web browser, navigate to the jupyter notebook server web interface and open the [rosalind_workbook/](./rosalind_workbook/) directory.
 
