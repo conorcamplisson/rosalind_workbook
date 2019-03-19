@@ -12,12 +12,14 @@ Jupyter notebook templates by topic for the bioinformatics problems on [rosalind
 
 2. Create the conda environment:
 
-`$ cd rosalind_workbook/`.
-`$ conda env create -f environment.yml`.
+```
+$ cd rosalind_workbook/
+$ conda env create -f environment.yml
+```
 
 3. Activate the conda environment:
 
-`$ source activate rosalind`.
+`$ source activate rosalind`
 
 4. Run the jupyter notebook server:
 
