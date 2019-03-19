@@ -1,6 +1,6 @@
 # Rosalind Workbook
 
-A series of Jupyter notebook templates for the bioinformatics problems on rosalind.info
+Jupyter notebook templates by topic for the bioinformatics problems on [rosalind.info](http://rosalind.info/problems/topics/) and a corresponding conda environment.
 
 ### Getting Started
 
