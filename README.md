@@ -4,7 +4,7 @@ Jupyter notebook templates by topic for the bioinformatics problems on [rosalind
 
 ### Getting Started
 
-1. Ensure [Anaconda](https://docs.anaconda.com/anaconda/install/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is installed.
+1. Ensure you have either [Anaconda](https://docs.anaconda.com/anaconda/install/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed.
 
 2. Clone this repository:
 
