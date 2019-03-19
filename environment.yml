@@ -1,0 +1,13 @@
+name: rosalind
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - biopython=1.73
+  - jupyter=1.0.0
+  - numpy=1.16.2
+  - pandas=0.24.2
+  - python=3.7.2
+  - pip
+  - pip:
+    - requests-html
